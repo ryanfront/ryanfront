@@ -49,7 +49,3 @@ Design? Pixel-perfection or it doesn’t ship.
   
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ryanfront&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-## Visitor Counter
-
-[![](https://visitcount.itsvg.in/api?id=ryanfront&icon=0&color=0)](https://visitcount.itsvg.in)
