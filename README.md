@@ -22,7 +22,7 @@ I’m the dev you call when you want **fast**, **beautiful**, and **smooth-as-bu
 [![](https://visitcount.itsvg.in/api?id=ryanfront&icon=2&color=4)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://buymeacoffee.com/xodobyte) 
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/xodobyte) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
