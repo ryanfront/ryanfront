@@ -1,5 +1,10 @@
 # 💫 About Me:
-I’m the dev you call when you want **fast**, **beautiful**, and **smooth-as-butter** websites that *actually* feel alive.  <br>UI Animations? Crisp. <br>Performance? Blazing<br>Design? Pixel-perfection or it doesn’t ship.
+Frontend Developer specializing in **high-converting** web experiences that turn visitors into customers.  
+<br>React? Production-ready. 
+<br>Performance? Sub-2-second loads.
+<br>Conversions? Measurably higher or I refactor.
+
+Building websites that don't just look good—they work harder than your sales team.
 
 
 ## 🌐 Socials:
